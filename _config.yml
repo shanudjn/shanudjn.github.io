@@ -27,7 +27,7 @@ navbar-links:
   Resume: "https://pages.github.com/"
   Resources:
     - #Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - #Learn markdown: "http://www.markdowntutorial.com/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
     - #GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
 
