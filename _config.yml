@@ -25,6 +25,7 @@ description: A Machine Learning Blog
 navbar-links:
   About Me: "aboutme"
   Resume: "https://pages.github.com/"
+  Website: "https://pages.github.com/"
   #Resources:
     - #Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - #Learn markdown: "http://www.markdowntutorial.com/"
